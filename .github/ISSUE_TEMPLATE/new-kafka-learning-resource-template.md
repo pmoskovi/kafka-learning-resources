@@ -3,7 +3,8 @@ name: New Kafka Learning Resource Template
 about: Create a new Kafka learning resource
 title: New Kafka Learning Resource Submission
 labels: ''
-assignees: pmoskovi
+assignees:
+  - pmoskovi
 body:
   - type: markdown
     attributes:
