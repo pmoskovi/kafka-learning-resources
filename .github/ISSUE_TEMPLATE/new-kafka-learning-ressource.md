@@ -1,38 +1,17 @@
 ---
 name: New Kafka Learning Ressource
 about: Propose a new Kafka learning resource
-title: Issue title
+title: New Kafka Learning Resource
 labels: ''
-assignees: ''
+assignees: 'pmoskovi'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+- **Name** (name of your resource)*: 
+- **Link** (URL that the resource is accessible at)*: 
+- **Description** (brief description of the resource)*: 
+- **Source** (website that should get credit for this content): 
+- **Skill Level**: [Beginner, Intermediate, Advanced] (select one): 
+- **Resource Type** [Video, Documentation, Guide or Tutorial, Blog Post, Book or Article, FAQ] (select one): 
+- **Interactivity** [Hands-on Exercise, Quiz or Test, Community Forum] (select one): 
+- **Language** [Java, Python, .NET/C#, Go, JavaScript, Other] (select one):
