@@ -1,9 +1,9 @@
 # Welcome to the Apache Kafka Learning Resources Repository!
 Hello and welcome to my comprehensive collection of Apache Kafka learning materials. This repository is designed to be a centralized resource for anyone looking to learn or deepen their knowledge of Apache Kafka, regardless of their experience level.
 ## What You'll Find Here
-This collection encompasses a wide range of materials suited to different learning preferences and skill levels. From in-depth guides and documentation to interactive exercises, I've gathered resources to cater to a variety of needs.
+This collection encompasses a wide range of materials organized by and suited to different learning preferences and skill levels. From in-depth guides and documentation to interactive exercises, I've gathered resources to cater to a variety of needs.
 ## Contributing to the Collection
-I believe in the power of community-driven learning. If you have a resource that could benefit others in their understanding of Apache Kafka, we encourage you to contribute. To submit a resource, please open an issue in the following format:
+I believe in the power of community-driven learning. If you have a resource that could benefit others in their understanding of Apache Kafka, I encourage you to contribute. To submit a resource, please [open an issue](https://github.com/pmoskovi/kafka-learning-resources/issues) in the following format:
 *  Name: Title of the resource.
 * Link: URL or location of the resource.
 * Description: A brief summary of the resource.
