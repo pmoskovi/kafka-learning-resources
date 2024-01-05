@@ -1,43 +1,94 @@
----
-name: New Kafka Learning Resource Template
-about: Create a new Kafka learning resource
-title: New Kafka Learning Resource Submission
-description: New Kafka Learning Resources
-labels: ''
-assignees:
-  - pmoskovi
+name: Kafka Resource Submission
+description: Submit a new Apache Kafka learning resource
+title: "Resource Submission: [Resource Name]"
+labels: ["submission"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to submit a new **Kafka Learning Resource**!
   - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can I get in touch with you if more info is needed?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
     id: name
     attributes:
       label: Name
-      description: Name of your resource
-      placeholder: Resource name
-      value: ""
+      description: Title of the resource.
+      placeholder: 'Enter the resource name here'
     validations:
       required: true
 
----
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: URL or location of the resource.
+      placeholder: 'Enter the resource link here'
+    validations:
+      required: true
 
-I'm submitting a new Kafka learning resource:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief summary of the resource.
+      placeholder: 'Enter the resource description here'
+    validations:
+      required: true
 
-- **Name** (name of your resource)*: 
-- **Link** (URL that the resource is accessible at)*: 
-- **Description** (brief description of the resource)*: 
-- **Source** (website that should get credit for this content): 
-- **Skill Level**: [Beginner, Intermediate, Advanced] (select one): 
-- **Resource Type** [Video, Documentation, Guide or Tutorial, Blog Post, Book or Article, FAQ] (select one): 
-- **Interactivity** [Hands-on Exercise, Quiz or Test, Community Forum] (select one): 
-- **Language** [Java, Python, .NET/C#, Go, JavaScript, Other] (select one):
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: The origin or creator of the resource.
+      placeholder: 'Enter the resource source here'
+    validations:
+      required: true
+
+  - type: dropdown
+    id: skill-level
+    attributes:
+      label: Skill Level
+      description: Select the skill level this resource is suitable for.
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: resource-type
+    attributes:
+      label: Resource Type
+      description: Choose the type(s) of resource.
+      options:
+        - label: Video
+        - label: Documentation
+        - label: Guide or Tutorial
+        - label: Blog Post
+        - label: Book or Article
+        - label: FAQ
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: interactivity
+    attributes:
+      label: Interactivity
+      description: Does this resource include any interactive content?
+      options:
+        - label: Hands-on Exercise
+        - label: Quiz or Test
+        - label: Community Forum
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: Select the programming language this resource is associated with.
+      options:
+        - Java
+        - Python
+        - .NET/C#
+        - Go
+        - JavaScript
+        - Other
+    validations:
+      required: true
