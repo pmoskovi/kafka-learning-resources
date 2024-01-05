@@ -2,6 +2,7 @@
 name: New Kafka Learning Resource Template
 about: Create a new Kafka learning resource
 title: New Kafka Learning Resource Submission
+description: New Kafka Learning Resources
 labels: ''
 assignees:
   - pmoskovi
@@ -10,7 +11,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to submit a new **Kafka Learning Resource**!
-   - type: input
+  - type: input
     id: contact
     attributes:
       label: Contact Details
