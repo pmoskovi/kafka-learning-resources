@@ -24,6 +24,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 
   * [Intermediate](#intermediate)
 
+  * [Advanced](#advanced)
+
 * [Resource Type](#resource-type)
 
   * [Video](#video)
@@ -82,6 +84,20 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Intermediate, Guide or Tutorial, Hands-on Exercises, undefined
 * [Event Sourcing and Event Storage with Apache Kafka](https://developer.confluent.io/courses/event-sourcing/event-driven-vs-state-based/): In this course, you learn about how events can be used as the storage model for your applications, what event sourcing is, how it works, and how it relates to approaches like CQRS and CDC. | Source: https://developer.confluent.io
 <br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+* [Apache Kafka Security](https://developer.confluent.io/courses/security/intro/): An introduction to Kafka security. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+* [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Explore hybrid cloud benefits and prepare for disaster recovery, cloud migration, and data sharing. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+
+### Advanced
+* [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Data Mesh 101](https://developer.confluent.io/courses/data-mesh/intro/): Data mesh is a framework for decentralized domain-driven architectures, with data as a product, that is self-service, and with strong governance models. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Apache Kafka Internal Architecture](https://developer.confluent.io/courses/architecture/get-started/): This course describes the architecture of Apache Kafka with lectures from Jun Rao, one of its original authors. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
 
 ## Resource Type
 
@@ -90,6 +106,18 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Beginner, Video, Hands-on Exercises, undefined
 * [Event Sourcing and Event Storage with Apache Kafka](https://developer.confluent.io/courses/event-sourcing/event-driven-vs-state-based/): In this course, you learn about how events can be used as the storage model for your applications, what event sourcing is, how it works, and how it relates to approaches like CQRS and CDC. | Source: https://developer.confluent.io
 <br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+* [Apache Kafka Security](https://developer.confluent.io/courses/security/intro/): An introduction to Kafka security. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+* [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Explore hybrid cloud benefits and prepare for disaster recovery, cloud migration, and data sharing. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+* [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Data Mesh 101](https://developer.confluent.io/courses/data-mesh/intro/): Data mesh is a framework for decentralized domain-driven architectures, with data as a product, that is self-service, and with strong governance models. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Apache Kafka Internal Architecture](https://developer.confluent.io/courses/architecture/get-started/): This course describes the architecture of Apache Kafka with lectures from Jun Rao, one of its original authors. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
 
 ### Guide or Tutorial
 * [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
@@ -158,6 +186,18 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Intermediate, Guide or Tutorial, Hands-on Exercises, undefined
 * [Event Sourcing and Event Storage with Apache Kafka](https://developer.confluent.io/courses/event-sourcing/event-driven-vs-state-based/): In this course, you learn about how events can be used as the storage model for your applications, what event sourcing is, how it works, and how it relates to approaches like CQRS and CDC. | Source: https://developer.confluent.io
 <br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+* [Apache Kafka Security](https://developer.confluent.io/courses/security/intro/): An introduction to Kafka security. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+* [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Explore hybrid cloud benefits and prepare for disaster recovery, cloud migration, and data sharing. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Video, Hands-on Exercises, undefined
+* [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Data Mesh 101](https://developer.confluent.io/courses/data-mesh/intro/): Data mesh is a framework for decentralized domain-driven architectures, with data as a product, that is self-service, and with strong governance models. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Apache Kafka Internal Architecture](https://developer.confluent.io/courses/architecture/get-started/): This course describes the architecture of Apache Kafka with lectures from Jun Rao, one of its original authors. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
+* [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Video, Hands-on Exercises, undefined
 
 ## Language
 
