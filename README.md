@@ -17,33 +17,19 @@ I regularly review submissions to ensure the repository remains up-to-date and v
 Thank you for visiting and contributing to this collaborative effort. Together, we can make learning Apache Kafka accessible and effective for everyone.
 
  Happy Learning!
-## Table of Contents
-* [Skill Level](#skill-level)
-
+## Table of Contents* [Skill Level](#skill-level)
   * [Beginner](#beginner)
-
   * [Intermediate](#intermediate)
-
   * [Advanced](#advanced)
-
 * [Resource Type](#resource-type)
-
   * [Video](#video)
-
   * [Guide or Tutorial](#guide-or-tutorial)
-
 * [Interactivity](#interactivity)
-
   * [Hands-on Exercises](#hands-on-exercises)
-
 * [Language](#language)
-
   * [Java](#java)
-
   * [Python](#python)
-
 * [Integration](#integration)
-
   * [Several Integrations](#several-integrations)
 
 ## Skill Level
