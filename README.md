@@ -38,9 +38,9 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ## Skill Level
 
 ### Beginner
-* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund | 7 videos | ~90 min | Source: https://youtube.com
+* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund. A great resource if you're a complete beginner. | 7 videos | ~90 min | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
+* [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): A complete end-to-end course with hands-on exercises taking you into the world of Kafka. | 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [How do I get started building my first Kafka producer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/confluent.html): Quick how-to on publishing Kafka messages | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
@@ -136,7 +136,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ## Resource Type
 
 ### Video
-* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund | 7 videos | ~90 min | Source: https://youtube.com
+* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund. A great resource if you're a complete beginner. | 7 videos | ~90 min | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
 * [Event Sourcing and Event Storage with Apache Kafka](https://developer.confluent.io/courses/event-sourcing/event-driven-vs-state-based/): In this course, you learn about how events can be used as the storage model for your applications, what event sourcing is, how it works, and how it relates to approaches like CQRS and CDC. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
@@ -170,7 +170,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Book or Article](#book-or-article), [Hands-on Exercises](#hands-on-exercises)
 
 ### Guide or Tutorial
-* [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
+* [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): A complete end-to-end course with hands-on exercises taking you into the world of Kafka. | 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
@@ -236,9 +236,9 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ## Interactivity
 
 ### Hands-on Exercises
-* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund | 7 videos | ~90 min | Source: https://youtube.com
+* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund. A great resource if you're a complete beginner. | 7 videos | ~90 min | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
+* [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): A complete end-to-end course with hands-on exercises taking you into the world of Kafka. | 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
