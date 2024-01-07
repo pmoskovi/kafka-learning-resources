@@ -24,6 +24,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
   * [Advanced](#advanced)
 * [Resource Type](#resource-type)
   * [Video](#video)
+  * [Book or Article](#book-or-article)
   * [Guide or Tutorial](#guide-or-tutorial)
   * [Blog Post](#blog-post)
 * [Interactivity](#interactivity)
@@ -53,6 +54,20 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Beginner, Guide or Tutorial, Hands-on Exercises, Python
 * [Top 7 Free Apache Kafka Tutorials and Courses for Beginners in 2023](https://www.confluent.io/blog/best-kafka-tutorials-examples-and-learning-resources/): A personal perspective on some great Kafka learning resources for beginners. | Source: https://developer.confluent.io
 <br/>Tags: Beginner, Blog Post
+* [Intro to Apache Kafka: How Kafka Works](https://www.confluent.io/blog/apache-kafka-intro-how-kafka-works/): Tim Berglund's intro to everything Kafka: events, topics, partitioning, brokers, replication, producers, consumers, and more. | Source: https://developer.confluent.io
+<br/>Tags: Beginner, Blog Post
+* [Apache Kafka in 6 Minutes](https://www.youtube.com/watch?v=Ch5VhJzaoaI): One of the most popular quick explainers on YouTube. | Source: https://youtube.com
+<br/>Tags: Beginner, Video
+* [Kafka in 100 Seconds](https://www.youtube.com/watch?v=uvb00oaa3k8): Although closer to 150 seconds, it's still quite impressive to give an idea about Kafka in such a short time. | Source: https://youtube.com
+<br/>Tags: Beginner, Video
+* [What is Kafka?](https://www.youtube.com/watch?v=aj9CDZm0Glc): A great video explainer from IBM - just under 10 minutes. | Source: https://youtube.com
+<br/>Tags: Beginner, Video
+* [Apache Kafka Explained](https://www.youtube.com/playlist?list=PLt1SIbA8guusxiHz9bveV-UHs_biWFegU): Stephane Maarek's 15-part YouTube playlist on everything Kafka. | Source: https://youtube.com
+<br/>Tags: Beginner, Video
+* [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide): Free 300+ page e-book (registration required), covering a full introduction to Apache Kafka , the distributed, publish-subscribe queue for handling real-time data feeds, Kafka internal architecture, what it's used for, and how to take full advantage of Kafka stream processing technology. | Source: https://www.confluent.io/
+<br/>Tags: Beginner, Book or Article, Hands-on Exercises
+* [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale - 2nd Edition](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087): This book was written for software engineers who develop applications that use Kafka’s APIs, and for production engineers (also called SREs, DevOps, or sysadmins) who install, configure, tune, and monitor Kafka in production.  | Source: https://amazon.com
+<br/>Tags: Beginner, Book or Article, Hands-on Exercises
 
 ### Intermediate
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
@@ -86,6 +101,18 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Intermediate, Blog Post
 * [Diagnose and Debug Apache Kafka Issues: Understanding Increased Consumer Rebalance Time](https://www.confluent.io/blog/debug-apache-kafka-pt-3/): Part 3 in the Diagnose and Debug Apache Kafka Issues blog post series by Confluent. | Source: https://developer.confluent.io
 <br/>Tags: Intermediate, Blog Post
+* [How to Run Confluent on Windows in Minutes](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-and-wsl-2/): Learn how to set up the entire Confluent stack on Windos using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [How to Run Apache Kafka on Windows](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-linux-wsl-2/): Learn how to run Apache Kafka on Windows using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/): A detailed look at 5 scenarios of what can go wrong with connections. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/): In this blog post, Neha Narkhede explains what Kafka’s exactly-once semantics mean, why it is a hard problem, and how the new idempotence and transactions features in Kafka enable correct exactly-once stream processing using the Kafka Streams API. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
+* [Transactions in Apache Kafka](https://www.confluent.io/blog/transactions-apache-kafka/): The goal of this post is to share the main concepts needed to use the transaction API in Apache Kafka effectively. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
+* [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
 
 ### Advanced
 * [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
@@ -101,6 +128,9 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Apache Kafka Message Compression](https://www.confluent.io/blog/apache-kafka-message-compression/): In addition to topic partitions, message compression plays an important role in ensuring high Kafka throughput. | Source: https://developer.confluent.io
 <br/>Tags: Advanced, Blog Post
 * [Unknown Magic Byte! How to Address Magic Byte Errors in Apache Kafka](https://www.confluent.io/blog/how-to-fix-unknown-magic-byte-errors-in-apache-kafka/): Everything you ever wanted to know about the Magic Byte in Kafka. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Blog Post
+* [Multi-Threaded Message Consumption with the Apache Kafka Consumer](https://www.confluent.io/blog/kafka-consumer-multi-threaded-messaging/): Understanding Kafka consumer internals is important in implementing a successful multi-threaded solution. This blog post takes a look under the hood of the Kafka consumer as a first step.
+ | Source: https://developer.confluent.io
 <br/>Tags: Advanced, Blog Post
 
 ## Resource Type
@@ -124,6 +154,20 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Advanced, Video, Hands-on Exercises
 * [Introduction to Consumer Group IDs](https://www.youtube.com/watch?v=xbJRNwfnQb4): Lucia Cerchie explains what an Apache Kafka® Consumer Group ID is, and what role it plays in work sharing and rebalancing. | Source: https://youtube.com
 <br/>Tags: Intermediate, Video
+* [Apache Kafka in 6 Minutes](https://www.youtube.com/watch?v=Ch5VhJzaoaI): One of the most popular quick explainers on YouTube. | Source: https://youtube.com
+<br/>Tags: Beginner, Video
+* [Kafka in 100 Seconds](https://www.youtube.com/watch?v=uvb00oaa3k8): Although closer to 150 seconds, it's still quite impressive to give an idea about Kafka in such a short time. | Source: https://youtube.com
+<br/>Tags: Beginner, Video
+* [What is Kafka?](https://www.youtube.com/watch?v=aj9CDZm0Glc): A great video explainer from IBM - just under 10 minutes. | Source: https://youtube.com
+<br/>Tags: Beginner, Video
+* [Apache Kafka Explained](https://www.youtube.com/playlist?list=PLt1SIbA8guusxiHz9bveV-UHs_biWFegU): Stephane Maarek's 15-part YouTube playlist on everything Kafka. | Source: https://youtube.com
+<br/>Tags: Beginner, Video
+
+### Book or Article
+* [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide): Free 300+ page e-book (registration required), covering a full introduction to Apache Kafka , the distributed, publish-subscribe queue for handling real-time data feeds, Kafka internal architecture, what it's used for, and how to take full advantage of Kafka stream processing technology. | Source: https://www.confluent.io/
+<br/>Tags: Beginner, Book or Article, Hands-on Exercises
+* [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale - 2nd Edition](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087): This book was written for software engineers who develop applications that use Kafka’s APIs, and for production engineers (also called SREs, DevOps, or sysadmins) who install, configure, tune, and monitor Kafka in production.  | Source: https://amazon.com
+<br/>Tags: Beginner, Book or Article, Hands-on Exercises
 
 ### Guide or Tutorial
 * [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
@@ -171,6 +215,23 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Intermediate, Blog Post
 * [Diagnose and Debug Apache Kafka Issues: Understanding Increased Consumer Rebalance Time](https://www.confluent.io/blog/debug-apache-kafka-pt-3/): Part 3 in the Diagnose and Debug Apache Kafka Issues blog post series by Confluent. | Source: https://developer.confluent.io
 <br/>Tags: Intermediate, Blog Post
+* [How to Run Confluent on Windows in Minutes](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-and-wsl-2/): Learn how to set up the entire Confluent stack on Windos using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [How to Run Apache Kafka on Windows](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-linux-wsl-2/): Learn how to run Apache Kafka on Windows using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [Multi-Threaded Message Consumption with the Apache Kafka Consumer](https://www.confluent.io/blog/kafka-consumer-multi-threaded-messaging/): Understanding Kafka consumer internals is important in implementing a successful multi-threaded solution. This blog post takes a look under the hood of the Kafka consumer as a first step.
+ | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Blog Post
+* [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/): A detailed look at 5 scenarios of what can go wrong with connections. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [Intro to Apache Kafka: How Kafka Works](https://www.confluent.io/blog/apache-kafka-intro-how-kafka-works/): Tim Berglund's intro to everything Kafka: events, topics, partitioning, brokers, replication, producers, consumers, and more. | Source: https://developer.confluent.io
+<br/>Tags: Beginner, Blog Post
+* [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/): In this blog post, Neha Narkhede explains what Kafka’s exactly-once semantics mean, why it is a hard problem, and how the new idempotence and transactions features in Kafka enable correct exactly-once stream processing using the Kafka Streams API. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
+* [Transactions in Apache Kafka](https://www.confluent.io/blog/transactions-apache-kafka/): The goal of this post is to share the main concepts needed to use the transaction API in Apache Kafka effectively. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
+* [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
 
 ## Interactivity
 
@@ -220,6 +281,18 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Advanced, Video, Hands-on Exercises
 * [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
 <br/>Tags: Advanced, Video, Hands-on Exercises
+* [How to Run Confluent on Windows in Minutes](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-and-wsl-2/): Learn how to set up the entire Confluent stack on Windos using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [How to Run Apache Kafka on Windows](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-linux-wsl-2/): Learn how to run Apache Kafka on Windows using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/): A detailed look at 5 scenarios of what can go wrong with connections. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post, Hands-on Exercises
+* [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide): Free 300+ page e-book (registration required), covering a full introduction to Apache Kafka , the distributed, publish-subscribe queue for handling real-time data feeds, Kafka internal architecture, what it's used for, and how to take full advantage of Kafka stream processing technology. | Source: https://www.confluent.io/
+<br/>Tags: Beginner, Book or Article, Hands-on Exercises
+* [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale - 2nd Edition](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087): This book was written for software engineers who develop applications that use Kafka’s APIs, and for production engineers (also called SREs, DevOps, or sysadmins) who install, configure, tune, and monitor Kafka in production.  | Source: https://amazon.com
+<br/>Tags: Beginner, Book or Article, Hands-on Exercises
 
 ## Language
 
