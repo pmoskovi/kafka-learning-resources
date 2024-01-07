@@ -1,4 +1,4 @@
-# Welcome to the Apache Kafka Learning Resources Repository!
+# Apache Kafka Learning Resources Repository
 Hello and welcome to my comprehensive collection of Apache Kafka learning materials. This repository is designed to be a centralized resource for anyone looking to learn or deepen their knowledge of Apache Kafka, regardless of their experience level.
 ## What You'll Find Here
 This collection encompasses a wide range of materials organized by and suited to different learning preferences and skill levels. From in-depth guides and documentation to interactive exercises, I've gathered resources to cater to a variety of needs.
@@ -25,6 +25,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Resource Type](#resource-type)
   * [Video](#video)
   * [Guide or Tutorial](#guide-or-tutorial)
+  * [Blog Post](#blog-post)
 * [Interactivity](#interactivity)
   * [Hands-on Exercises](#hands-on-exercises)
 * [Language](#language)
@@ -50,6 +51,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Beginner, Guide or Tutorial, Hands-on Exercises, .NET/C#
 * [Apache Kafka for Python Developers](https://developer.confluent.io/courses/kafka-python/intro/): Building Kafka apps using Python. | Source: https://developer.confluent.io
 <br/>Tags: Beginner, Guide or Tutorial, Hands-on Exercises, Python
+* [Top 7 Free Apache Kafka Tutorials and Courses for Beginners in 2023](https://www.confluent.io/blog/best-kafka-tutorials-examples-and-learning-resources/): A personal perspective on some great Kafka learning resources for beginners. | Source: https://developer.confluent.io
+<br/>Tags: Beginner, Blog Post
 
 ### Intermediate
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
@@ -75,6 +78,14 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Intermediate, Video, Hands-on Exercises
 * [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Explore hybrid cloud benefits and prepare for disaster recovery, cloud migration, and data sharing. | Source: https://developer.confluent.io
 <br/>Tags: Intermediate, Video, Hands-on Exercises
+* [What Are Apache Kafka Consumer Group IDs?](https://www.confluent.io/blog/configuring-apache-kafka-consumer-group-ids/): Setting the consumer Group ID determines what group a Kafka consumer belongs to, which has some major consequences. Read this blog post to learn more... | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
+* [Introduction to Consumer Group IDs](https://www.youtube.com/watch?v=xbJRNwfnQb4): Lucia Cerchie explains what an Apache Kafka® Consumer Group ID is, and what role it plays in work sharing and rebalancing. | Source: https://youtube.com
+<br/>Tags: Intermediate, Video
+* [5 Common Pitfalls When Using Apache Kafka](https://www.confluent.io/blog/5-common-pitfalls-when-using-apache-kafka/): Blog post about with a list of five common pitfalls and tips for how to avoid them—from client and broker configurations to design and monitoring considerations—that are sure to save you time and effort down the road. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
+* [Diagnose and Debug Apache Kafka Issues: Understanding Increased Consumer Rebalance Time](https://www.confluent.io/blog/debug-apache-kafka-pt-3/): Part 3 in the Diagnose and Debug Apache Kafka Issues blog post series by Confluent. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
 
 ### Advanced
 * [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
@@ -85,6 +96,12 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Advanced, Video, Hands-on Exercises
 * [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
 <br/>Tags: Advanced, Video, Hands-on Exercises
+* [GPT-4 + Streaming Data = Real-Time Generative AI](https://www.confluent.io/blog/chatgpt-and-streaming-data-for-real-time-generative-ai/): Blog post about bringing real-time streaming data to LLMs. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Blog Post
+* [Apache Kafka Message Compression](https://www.confluent.io/blog/apache-kafka-message-compression/): In addition to topic partitions, message compression plays an important role in ensuring high Kafka throughput. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Blog Post
+* [Unknown Magic Byte! How to Address Magic Byte Errors in Apache Kafka](https://www.confluent.io/blog/how-to-fix-unknown-magic-byte-errors-in-apache-kafka/): Everything you ever wanted to know about the Magic Byte in Kafka. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Blog Post
 
 ## Resource Type
 
@@ -105,6 +122,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Advanced, Video, Hands-on Exercises
 * [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
 <br/>Tags: Advanced, Video, Hands-on Exercises
+* [Introduction to Consumer Group IDs](https://www.youtube.com/watch?v=xbJRNwfnQb4): Lucia Cerchie explains what an Apache Kafka® Consumer Group ID is, and what role it plays in work sharing and rebalancing. | Source: https://youtube.com
+<br/>Tags: Intermediate, Video
 
 ### Guide or Tutorial
 * [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
@@ -136,6 +155,22 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: Beginner, Guide or Tutorial, Hands-on Exercises, Python
 * [Building Data Pipelines with Apache Kafka and Confluent](https://developer.confluent.io/courses/data-pipelines/intro/): Build a scalable, streaming data pipeline in under 20 minutes using Kafka and Confluent. | Source: https://developer.confluent.io
 <br/>Tags: Intermediate, Guide or Tutorial, Hands-on Exercises
+
+### Blog Post
+* [GPT-4 + Streaming Data = Real-Time Generative AI](https://www.confluent.io/blog/chatgpt-and-streaming-data-for-real-time-generative-ai/): Blog post about bringing real-time streaming data to LLMs. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Blog Post
+* [Apache Kafka Message Compression](https://www.confluent.io/blog/apache-kafka-message-compression/): In addition to topic partitions, message compression plays an important role in ensuring high Kafka throughput. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Blog Post
+* [Unknown Magic Byte! How to Address Magic Byte Errors in Apache Kafka](https://www.confluent.io/blog/how-to-fix-unknown-magic-byte-errors-in-apache-kafka/): Everything you ever wanted to know about the Magic Byte in Kafka. | Source: https://developer.confluent.io
+<br/>Tags: Advanced, Blog Post
+* [Top 7 Free Apache Kafka Tutorials and Courses for Beginners in 2023](https://www.confluent.io/blog/best-kafka-tutorials-examples-and-learning-resources/): A personal perspective on some great Kafka learning resources for beginners. | Source: https://developer.confluent.io
+<br/>Tags: Beginner, Blog Post
+* [What Are Apache Kafka Consumer Group IDs?](https://www.confluent.io/blog/configuring-apache-kafka-consumer-group-ids/): Setting the consumer Group ID determines what group a Kafka consumer belongs to, which has some major consequences. Read this blog post to learn more... | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
+* [5 Common Pitfalls When Using Apache Kafka](https://www.confluent.io/blog/5-common-pitfalls-when-using-apache-kafka/): Blog post about with a list of five common pitfalls and tips for how to avoid them—from client and broker configurations to design and monitoring considerations—that are sure to save you time and effort down the road. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
+* [Diagnose and Debug Apache Kafka Issues: Understanding Increased Consumer Rebalance Time](https://www.confluent.io/blog/debug-apache-kafka-pt-3/): Part 3 in the Diagnose and Debug Apache Kafka Issues blog post series by Confluent. | Source: https://developer.confluent.io
+<br/>Tags: Intermediate, Blog Post
 
 ## Interactivity
 
