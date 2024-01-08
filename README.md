@@ -42,11 +42,11 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): A complete end-to-end course with hands-on exercises taking you into the world of Kafka. | 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [How do I get started building my first Kafka producer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/confluent.html): Quick how-to on publishing Kafka messages | Source: https://developer.confluent.io
+* [How do I get started building my first Kafka producer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/confluent.html): An intuitive step-by-step tutorial on publishing Kafka messages. The tutorial offers two deployment options for you to choose from: pure Apache Kafka or Confluent Cloud. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [How do I get started building my first Kafka consumer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html): Quick how-to on consuming Kafka messages | Source: https://developer.confluent.io
+* [How do I get started building my first Kafka consumer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html): An intuitive step-by-step tutorial on consuming Kafka messages. The tutorial offers two deployment options for you to choose from: pure Apache Kafka or Confluent Cloud. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages: a simple app teaching the basics | Source: https://developer.confluent.io
+* [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages is the Hello World app of the Kafka world. This tutorial provides 3 options: plain vanilla Kafka, Confluent Cloud, and ksqlDB. Compare and contrast the three to learn the most! | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Apache Kafka for .NET Developers](https://developer.confluent.io/courses/apache-kafka-for-dotnet/overview/): Learn how to use Kafka to build a streaming application with .NET. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.NET/C#](#.net/c#)
@@ -70,12 +70,11 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Book or Article](#book-or-article), [Hands-on Exercises](#hands-on-exercises)
 
 ### Intermediate
-* [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
+* [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [ksqlDB 101](https://developer.confluent.io/courses/ksqldb): Introduction to data processing using ksqlDB | Source: https://developer.confluent.io
+* [ksqlDB 101](https://developer.confluent.io/courses/ksqldb): Introduction to powerful event processing capabilities using declarative SQL statements. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [Schema Registry 101](https://developer.confluent.io/courses/schema-registry/): Everything you ever wanted to know about schema registry.
- | Source: https://developer.confluent.io
+* [Schema Registry 101](https://developer.confluent.io/courses/schema-registry/): Everything you ever wanted to know about schema registry. If you're serious about your data, care about the message formats, or need versioning - this course is for you. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka Connect 101](https://developer.confluent.io/courses/kafka-connect): Need to integrate Kafka with your back-ends? There are hundreds of connectors readily available for you to choose from so you don’t have to reinvent the ‘data integration’ wheel. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
@@ -88,11 +87,11 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Building Data Pipelines with Apache Kafka and Confluent](https://developer.confluent.io/courses/data-pipelines/intro/): Build a scalable, streaming data pipeline in under 20 minutes using Kafka and Confluent. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Event Sourcing and Event Storage with Apache Kafka](https://developer.confluent.io/courses/event-sourcing/event-driven-vs-state-based/): In this course, you learn about how events can be used as the storage model for your applications, what event sourcing is, how it works, and how it relates to approaches like CQRS and CDC. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka Security](https://developer.confluent.io/courses/security/intro/): An introduction to Kafka security. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Explore hybrid cloud benefits and prepare for disaster recovery, cloud migration, and data sharing. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [What Are Apache Kafka Consumer Group IDs?](https://www.confluent.io/blog/configuring-apache-kafka-consumer-group-ids/): Setting the consumer Group ID determines what group a Kafka consumer belongs to, which has some major consequences. Read this blog post to learn more... | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post)
 * [Introduction to Consumer Group IDs](https://www.youtube.com/watch?v=xbJRNwfnQb4): Lucia Cerchie explains what an Apache Kafka® Consumer Group ID is, and what role it plays in work sharing and rebalancing. | Source: https://youtube.com
@@ -106,7 +105,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [How to Run Apache Kafka on Windows](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-linux-wsl-2/): Learn how to run Apache Kafka on Windows using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
 * [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/): A detailed look at 5 scenarios of what can go wrong with connections. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 * [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/): In this blog post, Neha Narkhede explains what Kafka’s exactly-once semantics mean, why it is a hard problem, and how the new idempotence and transactions features in Kafka enable correct exactly-once stream processing using the Kafka Streams API. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post)
 * [Transactions in Apache Kafka](https://www.confluent.io/blog/transactions-apache-kafka/): The goal of this post is to share the main concepts needed to use the transaction API in Apache Kafka effectively. | Source: https://developer.confluent.io
@@ -116,13 +115,13 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 
 ### Advanced
 * [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Data Mesh 101](https://developer.confluent.io/courses/data-mesh/intro/): Data mesh is a framework for decentralized domain-driven architectures, with data as a product, that is self-service, and with strong governance models. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka Internal Architecture](https://developer.confluent.io/courses/architecture/get-started/): This course describes the architecture of Apache Kafka with lectures from Jun Rao, one of its original authors. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [GPT-4 + Streaming Data = Real-Time Generative AI](https://www.confluent.io/blog/chatgpt-and-streaming-data-for-real-time-generative-ai/): Blog post about bringing real-time streaming data to LLMs. | Source: https://developer.confluent.io
 <br/>Tags: [Advanced](#advanced), [Blog Post](#blog-post)
 * [Apache Kafka Message Compression](https://www.confluent.io/blog/apache-kafka-message-compression/): In addition to topic partitions, message compression plays an important role in ensuring high Kafka throughput. | Source: https://developer.confluent.io
@@ -138,20 +137,6 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ### Video
 * [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund. A great resource if you're a complete beginner. | 7 videos | ~90 min | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Event Sourcing and Event Storage with Apache Kafka](https://developer.confluent.io/courses/event-sourcing/event-driven-vs-state-based/): In this course, you learn about how events can be used as the storage model for your applications, what event sourcing is, how it works, and how it relates to approaches like CQRS and CDC. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Apache Kafka Security](https://developer.confluent.io/courses/security/intro/): An introduction to Kafka security. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Explore hybrid cloud benefits and prepare for disaster recovery, cloud migration, and data sharing. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Data Mesh 101](https://developer.confluent.io/courses/data-mesh/intro/): Data mesh is a framework for decentralized domain-driven architectures, with data as a product, that is self-service, and with strong governance models. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Apache Kafka Internal Architecture](https://developer.confluent.io/courses/architecture/get-started/): This course describes the architecture of Apache Kafka with lectures from Jun Rao, one of its original authors. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
-* [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
 * [Introduction to Consumer Group IDs](https://www.youtube.com/watch?v=xbJRNwfnQb4): Lucia Cerchie explains what an Apache Kafka® Consumer Group ID is, and what role it plays in work sharing and rebalancing. | Source: https://youtube.com
 <br/>Tags: [Intermediate](#intermediate), [Video](#video)
 * [Apache Kafka in 6 Minutes](https://www.youtube.com/watch?v=Ch5VhJzaoaI): One of the most popular quick explainers on YouTube. | Source: https://youtube.com
@@ -172,18 +157,17 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ### Guide or Tutorial
 * [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): A complete end-to-end course with hands-on exercises taking you into the world of Kafka. | 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
+* [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [How do I get started building my first Kafka producer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/confluent.html): Quick how-to on publishing Kafka messages | Source: https://developer.confluent.io
+* [How do I get started building my first Kafka producer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/confluent.html): An intuitive step-by-step tutorial on publishing Kafka messages. The tutorial offers two deployment options for you to choose from: pure Apache Kafka or Confluent Cloud. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [How do I get started building my first Kafka consumer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html): Quick how-to on consuming Kafka messages | Source: https://developer.confluent.io
+* [How do I get started building my first Kafka consumer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html): An intuitive step-by-step tutorial on consuming Kafka messages. The tutorial offers two deployment options for you to choose from: pure Apache Kafka or Confluent Cloud. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages: a simple app teaching the basics | Source: https://developer.confluent.io
+* [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages is the Hello World app of the Kafka world. This tutorial provides 3 options: plain vanilla Kafka, Confluent Cloud, and ksqlDB. Compare and contrast the three to learn the most! | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [ksqlDB 101](https://developer.confluent.io/courses/ksqldb): Introduction to data processing using ksqlDB | Source: https://developer.confluent.io
+* [ksqlDB 101](https://developer.confluent.io/courses/ksqldb): Introduction to powerful event processing capabilities using declarative SQL statements. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [Schema Registry 101](https://developer.confluent.io/courses/schema-registry/): Everything you ever wanted to know about schema registry.
- | Source: https://developer.confluent.io
+* [Schema Registry 101](https://developer.confluent.io/courses/schema-registry/): Everything you ever wanted to know about schema registry. If you're serious about your data, care about the message formats, or need versioning - this course is for you. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka Connect 101](https://developer.confluent.io/courses/kafka-connect): Need to integrate Kafka with your back-ends? There are hundreds of connectors readily available for you to choose from so you don’t have to reinvent the ‘data integration’ wheel. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
@@ -199,6 +183,20 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 * [Building Data Pipelines with Apache Kafka and Confluent](https://developer.confluent.io/courses/data-pipelines/intro/): Build a scalable, streaming data pipeline in under 20 minutes using Kafka and Confluent. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Event Sourcing and Event Storage with Apache Kafka](https://developer.confluent.io/courses/event-sourcing/event-driven-vs-state-based/): In this course, you learn about how events can be used as the storage model for your applications, what event sourcing is, how it works, and how it relates to approaches like CQRS and CDC. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Apache Kafka Security](https://developer.confluent.io/courses/security/intro/): An introduction to Kafka security. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Explore hybrid cloud benefits and prepare for disaster recovery, cloud migration, and data sharing. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Data Mesh 101](https://developer.confluent.io/courses/data-mesh/intro/): Data mesh is a framework for decentralized domain-driven architectures, with data as a product, that is self-service, and with strong governance models. | Source: https://developer.confluent.io
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Apache Kafka Internal Architecture](https://developer.confluent.io/courses/architecture/get-started/): This course describes the architecture of Apache Kafka with lectures from Jun Rao, one of its original authors. | Source: https://developer.confluent.io
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 
 ### Blog Post
 * [GPT-4 + Streaming Data = Real-Time Generative AI](https://www.confluent.io/blog/chatgpt-and-streaming-data-for-real-time-generative-ai/): Blog post about bringing real-time streaming data to LLMs. | Source: https://developer.confluent.io
@@ -223,7 +221,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
  | Source: https://developer.confluent.io
 <br/>Tags: [Advanced](#advanced), [Blog Post](#blog-post)
 * [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/): A detailed look at 5 scenarios of what can go wrong with connections. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 * [Intro to Apache Kafka: How Kafka Works](https://www.confluent.io/blog/apache-kafka-intro-how-kafka-works/): Tim Berglund's intro to everything Kafka: events, topics, partitioning, brokers, replication, producers, consumers, and more. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Blog Post](#blog-post)
 * [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/): In this blog post, Neha Narkhede explains what Kafka’s exactly-once semantics mean, why it is a hard problem, and how the new idempotence and transactions features in Kafka enable correct exactly-once stream processing using the Kafka Streams API. | Source: https://developer.confluent.io
@@ -240,18 +238,17 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): A complete end-to-end course with hands-on exercises taking you into the world of Kafka. | 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
+* [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [How do I get started building my first Kafka producer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/confluent.html): Quick how-to on publishing Kafka messages | Source: https://developer.confluent.io
+* [How do I get started building my first Kafka producer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/confluent.html): An intuitive step-by-step tutorial on publishing Kafka messages. The tutorial offers two deployment options for you to choose from: pure Apache Kafka or Confluent Cloud. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [How do I get started building my first Kafka consumer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html): Quick how-to on consuming Kafka messages | Source: https://developer.confluent.io
+* [How do I get started building my first Kafka consumer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html): An intuitive step-by-step tutorial on consuming Kafka messages. The tutorial offers two deployment options for you to choose from: pure Apache Kafka or Confluent Cloud. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages: a simple app teaching the basics | Source: https://developer.confluent.io
+* [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages is the Hello World app of the Kafka world. This tutorial provides 3 options: plain vanilla Kafka, Confluent Cloud, and ksqlDB. Compare and contrast the three to learn the most! | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [ksqlDB 101](https://developer.confluent.io/courses/ksqldb): Introduction to data processing using ksqlDB | Source: https://developer.confluent.io
+* [ksqlDB 101](https://developer.confluent.io/courses/ksqldb): Introduction to powerful event processing capabilities using declarative SQL statements. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
-* [Schema Registry 101](https://developer.confluent.io/courses/schema-registry/): Everything you ever wanted to know about schema registry.
- | Source: https://developer.confluent.io
+* [Schema Registry 101](https://developer.confluent.io/courses/schema-registry/): Everything you ever wanted to know about schema registry. If you're serious about your data, care about the message formats, or need versioning - this course is for you. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka Connect 101](https://developer.confluent.io/courses/kafka-connect): Need to integrate Kafka with your back-ends? There are hundreds of connectors readily available for you to choose from so you don’t have to reinvent the ‘data integration’ wheel. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
@@ -268,25 +265,25 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Building Data Pipelines with Apache Kafka and Confluent](https://developer.confluent.io/courses/data-pipelines/intro/): Build a scalable, streaming data pipeline in under 20 minutes using Kafka and Confluent. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Event Sourcing and Event Storage with Apache Kafka](https://developer.confluent.io/courses/event-sourcing/event-driven-vs-state-based/): In this course, you learn about how events can be used as the storage model for your applications, what event sourcing is, how it works, and how it relates to approaches like CQRS and CDC. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka Security](https://developer.confluent.io/courses/security/intro/): An introduction to Kafka security. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Explore hybrid cloud benefits and prepare for disaster recovery, cloud migration, and data sharing. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Data Mesh 101](https://developer.confluent.io/courses/data-mesh/intro/): Data mesh is a framework for decentralized domain-driven architectures, with data as a product, that is self-service, and with strong governance models. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka Internal Architecture](https://developer.confluent.io/courses/architecture/get-started/): This course describes the architecture of Apache Kafka with lectures from Jun Rao, one of its original authors. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
-<br/>Tags: [Advanced](#advanced), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [How to Run Confluent on Windows in Minutes](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-and-wsl-2/): Learn how to set up the entire Confluent stack on Windos using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
 * [How to Run Apache Kafka on Windows](https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-linux-wsl-2/): Learn how to run Apache Kafka on Windows using WSL (Windows Subsystem for Linux 2). | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
 * [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/): A detailed look at 5 scenarios of what can go wrong with connections. | Source: https://developer.confluent.io
-<br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
+<br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 * [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide): Free 300+ page e-book (registration required), covering a full introduction to Apache Kafka , the distributed, publish-subscribe queue for handling real-time data feeds, Kafka internal architecture, what it's used for, and how to take full advantage of Kafka stream processing technology. | Source: https://www.confluent.io/
@@ -297,11 +294,11 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ## Language
 
 ### Java
-* [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
+* [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [How do I get started building my first Kafka consumer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html): Quick how-to on consuming Kafka messages | Source: https://developer.confluent.io
+* [How do I get started building my first Kafka consumer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html): An intuitive step-by-step tutorial on consuming Kafka messages. The tutorial offers two deployment options for you to choose from: pure Apache Kafka or Confluent Cloud. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
-* [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages: a simple app teaching the basics | Source: https://developer.confluent.io
+* [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages is the Hello World app of the Kafka world. This tutorial provides 3 options: plain vanilla Kafka, Confluent Cloud, and ksqlDB. Compare and contrast the three to learn the most! | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Spring Framework and Apache Kafka](https://developer.confluent.io/courses/spring/apache-kafka-intro/): Building event streaming systems in Spring Boot. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
@@ -309,9 +306,15 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ### Python
 * [Apache Kafka for Python Developers](https://developer.confluent.io/courses/kafka-python/intro/): Building Kafka apps using Python. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
+* [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/): A detailed look at 5 scenarios of what can go wrong with connections. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 
 ## Integration
 
 ### Several Integrations
+* [Kafka Connect 101](https://developer.confluent.io/courses/kafka-connect): Need to integrate Kafka with your back-ends? There are hundreds of connectors readily available for you to choose from so you don’t have to reinvent the ‘data integration’ wheel. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Hybrid and Multicloud Architecture with Apache Kafka](https://developer.confluent.io/courses/hybrid-cloud/intro/): Disaster recovery, cloud migration, and data sharing in a hybrid cloud world. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
