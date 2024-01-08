@@ -27,6 +27,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
   * [Book or Article](#book-or-article)
   * [Guide or Tutorial](#guide-or-tutorial)
   * [Blog Post](#blog-post)
+  * [FAQ](#faq)
 * [Interactivity](#interactivity)
   * [Hands-on Exercises](#hands-on-exercises)
 * [Language](#language)
@@ -68,6 +69,16 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Book or Article](#book-or-article), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale - 2nd Edition](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087): This book was written for software engineers who develop applications that use Kafka’s APIs, and for production engineers (also called SREs, DevOps, or sysadmins) who install, configure, tune, and monitor Kafka in production.  | Source: https://amazon.com
 <br/>Tags: [Beginner](#beginner), [Book or Article](#book-or-article), [Hands-on Exercises](#hands-on-exercises)
+* [What is a Kafka Cluster?](https://www.youtube.com/watch?v=uKay_LDkk70): This video explains what an Apache Kafka cluster is, and why it's unique. Learn how Kafka supports speed, scalability, and durability through its cluster structure. | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video)
+* [Apache Kafka 3.6 New Features](https://www.youtube.com/watch?v=GW3625sEJyc): Watch this sweet video (shot in an apiary) discussing the new features in Kafka 3.6 . | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video)
+* [Apache Kafka FAQ - Apache Software Foundation](https://cwiki.apache.org/confluence/display/kafka/faq): Frequently Asked Questions about Apache Kafka by the Apache Software Foundation | Source: https://apache.org
+<br/>Tags: [Beginner](#beginner), [FAQ](#faq)
+* [Apache Kafka FAQ - Confluent](https://developer.confluent.io/faq/apache-kafka/): Frequently Asked Questions about Apache Kafka by Confluent | Source: https://developer.confluent.io
+<br/>Tags: [Beginner](#beginner), [FAQ](#faq)
+* [Apache Kafka FAQ - IBM](https://ibm-cloud-architecture.github.io/refarch-eda/technology/faq/): Frequently Asked Questions about Apache Kafka by IBM | Source: https://github.com
+<br/>Tags: [Beginner](#beginner), [FAQ](#faq)
 
 ### Intermediate
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
@@ -112,6 +123,10 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post)
 * [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
+* [Amazon S3 Kafka Connector Setup & Configuration](https://www.youtube.com/watch?v=joAdluM4Xfo): Connecting your Kafka environment to AWS S3 using the S3 Connector. | Source: https://youtube.com
+<br/>Tags: [Intermediate](#intermediate), [Video](#video)
+* [Kafka Data Streaming Cheat Sheet](https://assets.confluent.io/m/187c26155cdd0e47/original/20230915-BRO-Mastering_Production_Data_Streaming_Systems.pdf): A multi-page cheat sheet for anybody deploying streaming applications to production. The cheat sheet focuses on topics, including Data, Platform, Applications, Automation, and Business Continuity. | Source: https://confluent.io
+<br/>Tags: [Intermediate](#intermediate), [FAQ](#faq)
 
 ### Advanced
 * [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
@@ -146,6 +161,12 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [What is Kafka?](https://www.youtube.com/watch?v=aj9CDZm0Glc): A great video explainer from IBM - just under 10 minutes. | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video)
 * [Apache Kafka Explained](https://www.youtube.com/playlist?list=PLt1SIbA8guusxiHz9bveV-UHs_biWFegU): Stephane Maarek's 15-part YouTube playlist on everything Kafka. | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video)
+* [Amazon S3 Kafka Connector Setup & Configuration](https://www.youtube.com/watch?v=joAdluM4Xfo): Connecting your Kafka environment to AWS S3 using the S3 Connector. | Source: https://youtube.com
+<br/>Tags: [Intermediate](#intermediate), [Video](#video)
+* [What is a Kafka Cluster?](https://www.youtube.com/watch?v=uKay_LDkk70): This video explains what an Apache Kafka cluster is, and why it's unique. Learn how Kafka supports speed, scalability, and durability through its cluster structure. | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video)
+* [Apache Kafka 3.6 New Features](https://www.youtube.com/watch?v=GW3625sEJyc): Watch this sweet video (shot in an apiary) discussing the new features in Kafka 3.6 . | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video)
 
 ### Book or Article
@@ -230,6 +251,16 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post)
 * [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
+
+### FAQ
+* [Kafka Data Streaming Cheat Sheet](https://assets.confluent.io/m/187c26155cdd0e47/original/20230915-BRO-Mastering_Production_Data_Streaming_Systems.pdf): A multi-page cheat sheet for anybody deploying streaming applications to production. The cheat sheet focuses on topics, including Data, Platform, Applications, Automation, and Business Continuity. | Source: https://confluent.io
+<br/>Tags: [Intermediate](#intermediate), [FAQ](#faq)
+* [Apache Kafka FAQ - Apache Software Foundation](https://cwiki.apache.org/confluence/display/kafka/faq): Frequently Asked Questions about Apache Kafka by the Apache Software Foundation | Source: https://apache.org
+<br/>Tags: [Beginner](#beginner), [FAQ](#faq)
+* [Apache Kafka FAQ - Confluent](https://developer.confluent.io/faq/apache-kafka/): Frequently Asked Questions about Apache Kafka by Confluent | Source: https://developer.confluent.io
+<br/>Tags: [Beginner](#beginner), [FAQ](#faq)
+* [Apache Kafka FAQ - IBM](https://ibm-cloud-architecture.github.io/refarch-eda/technology/faq/): Frequently Asked Questions about Apache Kafka by IBM | Source: https://github.com
+<br/>Tags: [Beginner](#beginner), [FAQ](#faq)
 
 ## Interactivity
 
@@ -318,3 +349,5 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
+* [Amazon S3 Kafka Connector Setup & Configuration](https://www.youtube.com/watch?v=joAdluM4Xfo): Connecting your Kafka environment to AWS S3 using the S3 Connector. | Source: https://youtube.com
+<br/>Tags: [Intermediate](#intermediate), [Video](#video)
