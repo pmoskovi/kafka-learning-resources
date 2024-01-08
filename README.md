@@ -11,7 +11,7 @@ If you have a resource that could benefit others in their understanding of Apach
 * Skill Level: [Beginner, Intermediate, Advanced].
 * Resource Type: [Video, Documentation, Guide or Tutorial, Blog Post, Book or Article, FAQ].
 * Interactivity: [Hands-on Exercise, Quiz or Test, Community Forum].
-* Language: [Java, Python, .NET/C#, Go, JavaScript, Other].
+* Language: [Java, Python, .Net, Go, JavaScript, Other].
 
 I regularly review submissions to ensure the repository remains up-to-date and valuable for learners at all levels.
 Thank you for visiting and contributing to this collaborative effort. Together, we can make learning Apache Kafka accessible and effective for everyone.
@@ -33,6 +33,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Language](#language)
   * [Java](#java)
   * [Python](#python)
+  * [.Net](#.net)
 * [Integration](#integration)
   * [Several Integrations](#several-integrations)
 
@@ -50,7 +51,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [How can I count the number of messages in a Kafka topic?](https://developer.confluent.io/tutorials/how-to-count-messages-on-a-kafka-topic/confluent.html): Counting messages is the Hello World app of the Kafka world. This tutorial provides 3 options: plain vanilla Kafka, Confluent Cloud, and ksqlDB. Compare and contrast the three to learn the most! | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Apache Kafka for .NET Developers](https://developer.confluent.io/courses/apache-kafka-for-dotnet/overview/): Learn how to use Kafka to build a streaming application with .NET. | Source: https://developer.confluent.io
-<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.NET/C#](#.net/c#)
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.Net](#.net)
 * [Apache Kafka for Python Developers](https://developer.confluent.io/courses/kafka-python/intro/): Building Kafka apps using Python. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 * [Top 7 Free Apache Kafka Tutorials and Courses for Beginners in 2023](https://www.confluent.io/blog/best-kafka-tutorials-examples-and-learning-resources/): A personal perspective on some great Kafka learning resources for beginners. | Source: https://developer.confluent.io
@@ -199,7 +200,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Spring Framework and Apache Kafka](https://developer.confluent.io/courses/spring/apache-kafka-intro/): Building event streaming systems in Spring Boot. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Apache Kafka for .NET Developers](https://developer.confluent.io/courses/apache-kafka-for-dotnet/overview/): Learn how to use Kafka to build a streaming application with .NET. | Source: https://developer.confluent.io
-<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.NET/C#](#.net/c#)
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.Net](#.net)
 * [Apache Kafka for Python Developers](https://developer.confluent.io/courses/kafka-python/intro/): Building Kafka apps using Python. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 * [Building Data Pipelines with Apache Kafka and Confluent](https://developer.confluent.io/courses/data-pipelines/intro/): Build a scalable, streaming data pipeline in under 20 minutes using Kafka and Confluent. | Source: https://developer.confluent.io
@@ -290,7 +291,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Spring Framework and Apache Kafka](https://developer.confluent.io/courses/spring/apache-kafka-intro/): Building event streaming systems in Spring Boot. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Apache Kafka for .NET Developers](https://developer.confluent.io/courses/apache-kafka-for-dotnet/overview/): Learn how to use Kafka to build a streaming application with .NET. | Source: https://developer.confluent.io
-<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.NET/C#](#.net/c#)
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.Net](#.net)
 * [Apache Kafka for Python Developers](https://developer.confluent.io/courses/kafka-python/intro/): Building Kafka apps using Python. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 * [Building Data Pipelines with Apache Kafka and Confluent](https://developer.confluent.io/courses/data-pipelines/intro/): Build a scalable, streaming data pipeline in under 20 minutes using Kafka and Confluent. | Source: https://developer.confluent.io
@@ -339,6 +340,10 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
 * [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/): A detailed look at 5 scenarios of what can go wrong with connections. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises), [Python](#python)
+
+### .Net
+* [Apache Kafka for .NET Developers](https://developer.confluent.io/courses/apache-kafka-for-dotnet/overview/): Learn how to use Kafka to build a streaming application with .NET. | Source: https://developer.confluent.io
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.Net](#.net)
 
 ## Integration
 
