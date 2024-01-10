@@ -31,6 +31,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
   * [Video](#video)
   * [Book or Article](#book-or-article)
   * [Guide or Tutorial](#guide-or-tutorial)
+  * [Documentation](#documentation)
   * [Blog Post](#blog-post)
   * [FAQ](#faq)
 * [Interactivity](#interactivity)
@@ -91,6 +92,12 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Comprehensive Kafka Blog by Confluent](https://www.confluent.io/blog/): A comprehensive technical blog by Confluent. New posts on a regular basis - probably the best one out there. | Source: https://confluent.io
 <br/>Tags: [Beginner](#beginner), [Blog Post](#blog-post)
+* [Apache Kafka Documentation](https://kafka.apache.org/documentation/): The official Kafka documentation | Source: https://kafka.apache.org/
+<br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
+* [Amazon MSK Developero Guide](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html): Amazon Managed Streaming for Apache Kafka | Source: https://docs.aws.amazon.com/
+<br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
+* [Confluent Docs](https://docs.confluent.io/home/overview.html): Guides, samples, and references you need to use the streaming data platform based on Apache Kafka. | Source: https://docs.confluent.io
+<br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
 
 ### Intermediate
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
@@ -246,6 +253,14 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/): Learn Apache Kafka Ecosystem, Architecture, and Client API Programming in Java | For Fee | Source: https://udemy.com
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+
+### Documentation
+* [Apache Kafka Documentation](https://kafka.apache.org/documentation/): The official Kafka documentation | Source: https://kafka.apache.org/
+<br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
+* [Amazon MSK Developero Guide](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html): Amazon Managed Streaming for Apache Kafka | Source: https://docs.aws.amazon.com/
+<br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
+* [Confluent Docs](https://docs.confluent.io/home/overview.html): Guides, samples, and references you need to use the streaming data platform based on Apache Kafka. | Source: https://docs.confluent.io
+<br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
 
 ### Blog Post
 * [GPT-4 + Streaming Data = Real-Time Generative AI](https://www.confluent.io/blog/chatgpt-and-streaming-data-for-real-time-generative-ai/): Blog post about bringing real-time streaming data to LLMs. | Source: https://developer.confluent.io
