@@ -14,6 +14,11 @@ If you have a resource that could benefit others in their understanding of Apach
 * Language: [Java, Python, .NET, Go, JavaScript, Other].
 
 I regularly review submissions to ensure the repository remains up-to-date and valuable for learners at all levels.
+
+## How I Manage the Resources
+To keep things organized and easily accessible, I’ve implemented a simple, streamlined process. All the resources are stored in an [AirTable spreadsheet](https://airtable.com/appEd5VonRN5jjbA3/shrSfBXUa80PzxOY7/tblPu2wGcjJwOKbjP/viwdQPLV4yunwd3Mq), which acts as the central hub for all the content. This approach allows me to maintain and update the resources efficiently. Whenever there's a change in the contents of the spreadsheet, a script is executed to update this very README.md page. This process ensures that the information you see on this page is current and reflects the contents of the [AirTable spreadsheet](https://airtable.com/appEd5VonRN5jjbA3/shrSfBXUa80PzxOY7/tblPu2wGcjJwOKbjP/viwdQPLV4yunwd3Mq).
+
+Your input and participation are what make this repository a valuable resource for everyone. If you have any questions or ideas, please don't hesitate to reach out. It is my goal to ensure that this repository remains a top-notch resource for Apache Kafka knowledge.
 Thank you for visiting and contributing to this collaborative effort. Together, we can make learning Apache Kafka accessible and effective for everyone.
 
  Happy Learning!
@@ -80,6 +85,12 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [FAQ](#faq)
 * [Apache Kafka FAQ - IBM](https://ibm-cloud-architecture.github.io/refarch-eda/technology/faq/): Frequently Asked Questions about Apache Kafka by IBM | Source: https://github.com
 <br/>Tags: [Beginner](#beginner), [FAQ](#faq)
+* [Learn Apache Kafka for Beginners v3](https://www.udemy.com/course/apache-kafka/): Intro course by Conduktor's Stephan Maarek: Learn Apache Kafka 3.0 Ecosystem, Core Concepts, Real World Java, Producers/Consumers & Big Data Architecture | For Fee | Source: https://udemy.com
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/): Learn Apache Kafka Ecosystem, Architecture, and Client API Programming in Java | For Fee | Source: https://udemy.com
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Comprehensive Kafka Blog by Confluent](https://www.confluent.io/blog/): A comprehensive technical blog by Confluent. New posts on a regular basis - probably the best one out there. | Source: https://confluent.io
+<br/>Tags: [Beginner](#beginner), [Blog Post](#blog-post)
 
 ### Intermediate
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
@@ -128,6 +139,12 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Video](#video)
 * [Kafka Data Streaming Cheat Sheet](https://assets.confluent.io/m/187c26155cdd0e47/original/20230915-BRO-Mastering_Production_Data_Streaming_Systems.pdf): A multi-page cheat sheet for anybody deploying streaming applications to production. The cheat sheet focuses on topics, including Data, Platform, Applications, Automation, and Business Continuity. | Source: https://confluent.io
 <br/>Tags: [Intermediate](#intermediate), [FAQ](#faq)
+* [Kafka Streams for Data Processing](https://www.udemy.com/course/kafka-streams/): Learn the Kafka Streams API with Hands-On Examples, Learn Exactly Once, Build and Deploy Apps with Java 8 | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Connect Hands-on Learning](https://www.udemy.com/course/kafka-connect/): Learn the Kafka Streams API with Hands-On Examples, Learn Exactly Once, Build and Deploy Apps with Java 8 | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Cluster Setup & Administration](https://www.udemy.com/course/kafka-cluster-setup/): Hands-On Training on ZooKeeper Quorum Setup, Kafka Cluster Setup and Administration in AWS. | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 
 ### Advanced
 * [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
@@ -219,6 +236,16 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Inside ksqlDB](https://developer.confluent.io/courses/inside-ksqldb/streaming-architecture/): Learn about the internals of ksqlDB, how it was built, as well as security, scalability and performance. | Source: https://developer.confluent.io
 <br/>Tags: [Advanced](#advanced), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Learn Apache Kafka for Beginners v3](https://www.udemy.com/course/apache-kafka/): Intro course by Conduktor's Stephan Maarek: Learn Apache Kafka 3.0 Ecosystem, Core Concepts, Real World Java, Producers/Consumers & Big Data Architecture | For Fee | Source: https://udemy.com
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Streams for Data Processing](https://www.udemy.com/course/kafka-streams/): Learn the Kafka Streams API with Hands-On Examples, Learn Exactly Once, Build and Deploy Apps with Java 8 | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Connect Hands-on Learning](https://www.udemy.com/course/kafka-connect/): Learn the Kafka Streams API with Hands-On Examples, Learn Exactly Once, Build and Deploy Apps with Java 8 | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Cluster Setup & Administration](https://www.udemy.com/course/kafka-cluster-setup/): Hands-On Training on ZooKeeper Quorum Setup, Kafka Cluster Setup and Administration in AWS. | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/): Learn Apache Kafka Ecosystem, Architecture, and Client API Programming in Java | For Fee | Source: https://udemy.com
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Blog Post
 * [GPT-4 + Streaming Data = Real-Time Generative AI](https://www.confluent.io/blog/chatgpt-and-streaming-data-for-real-time-generative-ai/): Blog post about bringing real-time streaming data to LLMs. | Source: https://developer.confluent.io
@@ -252,6 +279,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post)
 * [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/): Kafka Connect is part of Apache Kafka®, providing streaming integration between data stores and Kafka. For data engineers, it just requires JSON configuration files to use. There are connectors for common (and not-so-common) data stores out there already, including JDBC, Elasticsearch, IBM MQ, S3 and BigQuery, to name but a few. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Blog Post](#blog-post), [Hands-on Exercises](#hands-on-exercises)
+* [Comprehensive Kafka Blog by Confluent](https://www.confluent.io/blog/): A comprehensive technical blog by Confluent. New posts on a regular basis - probably the best one out there. | Source: https://confluent.io
+<br/>Tags: [Beginner](#beginner), [Blog Post](#blog-post)
 
 ### FAQ
 * [Kafka Data Streaming Cheat Sheet](https://assets.confluent.io/m/187c26155cdd0e47/original/20230915-BRO-Mastering_Production_Data_Streaming_Systems.pdf): A multi-page cheat sheet for anybody deploying streaming applications to production. The cheat sheet focuses on topics, including Data, Platform, Applications, Automation, and Business Continuity. | Source: https://confluent.io
@@ -322,6 +351,16 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Book or Article](#book-or-article), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale - 2nd Edition](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087): This book was written for software engineers who develop applications that use Kafka’s APIs, and for production engineers (also called SREs, DevOps, or sysadmins) who install, configure, tune, and monitor Kafka in production.  | Source: https://amazon.com
 <br/>Tags: [Beginner](#beginner), [Book or Article](#book-or-article), [Hands-on Exercises](#hands-on-exercises)
+* [Learn Apache Kafka for Beginners v3](https://www.udemy.com/course/apache-kafka/): Intro course by Conduktor's Stephan Maarek: Learn Apache Kafka 3.0 Ecosystem, Core Concepts, Real World Java, Producers/Consumers & Big Data Architecture | For Fee | Source: https://udemy.com
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Streams for Data Processing](https://www.udemy.com/course/kafka-streams/): Learn the Kafka Streams API with Hands-On Examples, Learn Exactly Once, Build and Deploy Apps with Java 8 | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Connect Hands-on Learning](https://www.udemy.com/course/kafka-connect/): Learn the Kafka Streams API with Hands-On Examples, Learn Exactly Once, Build and Deploy Apps with Java 8 | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Cluster Setup & Administration](https://www.udemy.com/course/kafka-cluster-setup/): Hands-On Training on ZooKeeper Quorum Setup, Kafka Cluster Setup and Administration in AWS. | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/): Learn Apache Kafka Ecosystem, Architecture, and Client API Programming in Java | For Fee | Source: https://udemy.com
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ## Language
 
@@ -334,6 +373,14 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Spring Framework and Apache Kafka](https://developer.confluent.io/courses/spring/apache-kafka-intro/): Building event streaming systems in Spring Boot. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Learn Apache Kafka for Beginners v3](https://www.udemy.com/course/apache-kafka/): Intro course by Conduktor's Stephan Maarek: Learn Apache Kafka 3.0 Ecosystem, Core Concepts, Real World Java, Producers/Consumers & Big Data Architecture | For Fee | Source: https://udemy.com
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Streams for Data Processing](https://www.udemy.com/course/kafka-streams/): Learn the Kafka Streams API with Hands-On Examples, Learn Exactly Once, Build and Deploy Apps with Java 8 | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Kafka Connect Hands-on Learning](https://www.udemy.com/course/kafka-connect/): Learn the Kafka Streams API with Hands-On Examples, Learn Exactly Once, Build and Deploy Apps with Java 8 | For Fee | Source: https://udemy.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/): Learn Apache Kafka Ecosystem, Architecture, and Client API Programming in Java | For Fee | Source: https://udemy.com
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Python
 * [Apache Kafka for Python Developers](https://developer.confluent.io/courses/kafka-python/intro/): Building Kafka apps using Python. | Source: https://developer.confluent.io
