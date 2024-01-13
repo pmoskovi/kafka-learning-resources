@@ -9,7 +9,7 @@ If you have a resource that could benefit others in their understanding of Apach
 * Description: A brief summary of the resource.
 * Source: The origin or creator of the resource.
 * Skill Level: [Beginner, Intermediate, Advanced].
-* Resource Type: [Video, Documentation, Guide or Tutorial, Blog Post, Book or Article, FAQ].
+* Resource Type: [Video, Documentation, Guide or Tutorial, Blog Post, Book or Article, FAQ, Newsletter].
 * Interactivity: [Hands-on Exercise, Quiz or Test, Community Forum].
 * Language: [Java, Python, .NET, Go, JavaScript, Other].
 
@@ -34,6 +34,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
   * [Documentation](#documentation)
   * [Blog Post](#blog-post)
   * [FAQ](#faq)
+  * [Newsletter](#newsletter)
 * [Interactivity](#interactivity)
   * [Hands-on Exercises](#hands-on-exercises)
 * [Language](#language)
@@ -94,10 +95,12 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Blog Post](#blog-post)
 * [Apache Kafka Documentation](https://kafka.apache.org/documentation/): The official Kafka documentation | Source: https://kafka.apache.org/
 <br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
-* [Amazon MSK Developero Guide](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html): Amazon Managed Streaming for Apache Kafka | Source: https://docs.aws.amazon.com/
+* [Amazon MSK Developer Guide](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html): Amazon Managed Streaming for Apache Kafka | Source: https://docs.aws.amazon.com/
 <br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
-* [Confluent Docs](https://docs.confluent.io/home/overview.html): Guides, samples, and references you need to use the streaming data platform based on Apache Kafka. | Source: https://docs.confluent.io
+* [Confluent Documentation](https://docs.confluent.io/home/overview.html): Guides, samples, and references you need to use the streaming data platform based on Apache Kafka. | Source: https://docs.confluent.io
 <br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
+* [Confluent DevX Newsletter](https://developer.confluent.io/newsletter/): This biweekly newsletter is a one-stop-shop for staying up to date on the latest Kafka and Flink learning materials, news, community meetups and events, useful terminal hacks, and some fun finds from around the web. Complete archive available. | Source: https://developer.confluent.io/newsletter/
+<br/>Tags: [Beginner](#beginner), [Newsletter](#newsletter)
 
 ### Intermediate
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
@@ -257,9 +260,9 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ### Documentation
 * [Apache Kafka Documentation](https://kafka.apache.org/documentation/): The official Kafka documentation | Source: https://kafka.apache.org/
 <br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
-* [Amazon MSK Developero Guide](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html): Amazon Managed Streaming for Apache Kafka | Source: https://docs.aws.amazon.com/
+* [Amazon MSK Developer Guide](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html): Amazon Managed Streaming for Apache Kafka | Source: https://docs.aws.amazon.com/
 <br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
-* [Confluent Docs](https://docs.confluent.io/home/overview.html): Guides, samples, and references you need to use the streaming data platform based on Apache Kafka. | Source: https://docs.confluent.io
+* [Confluent Documentation](https://docs.confluent.io/home/overview.html): Guides, samples, and references you need to use the streaming data platform based on Apache Kafka. | Source: https://docs.confluent.io
 <br/>Tags: [Beginner](#beginner), [Documentation](#documentation)
 
 ### Blog Post
@@ -306,6 +309,10 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [FAQ](#faq)
 * [Apache Kafka FAQ - IBM](https://ibm-cloud-architecture.github.io/refarch-eda/technology/faq/): Frequently Asked Questions about Apache Kafka by IBM | Source: https://github.com
 <br/>Tags: [Beginner](#beginner), [FAQ](#faq)
+
+### Newsletter
+* [Confluent DevX Newsletter](https://developer.confluent.io/newsletter/): This biweekly newsletter is a one-stop-shop for staying up to date on the latest Kafka and Flink learning materials, news, community meetups and events, useful terminal hacks, and some fun finds from around the web. Complete archive available. | Source: https://developer.confluent.io/newsletter/
+<br/>Tags: [Beginner](#beginner), [Newsletter](#newsletter)
 
 ## Interactivity
 
