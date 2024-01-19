@@ -1,4 +1,5 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/pmoskovi/kafka-learning-resources?style=flat&logoColor=red&label=Stars&color=blue)# Apache Kafka Learning Resources Repository
+![GitHub Repo stars](https://img.shields.io/github/stars/pmoskovi/kafka-learning-resources?style=flat&logoColor=red&label=Stars&color=blue)
+# Apache Kafka Learning Resources Repository
 Hello and welcome to my comprehensive collection of Apache Kafka learning materials. This repository is designed to be a centralized resource for anyone looking to learn or deepen their knowledge of Apache Kafka, regardless of their experience level.
 ## What You'll Find Here
 This collection encompasses a wide range of materials organized by and suited to different learning preferences and skill levels. From in-depth guides and documentation to interactive exercises, I've gathered resources to cater to a variety of needs.
