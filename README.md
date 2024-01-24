@@ -23,7 +23,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 
  Happy Learning!
 
- P.s.: If you want to learn about Flink, check out my [Flink Learning Resources](/pmoskovi/flink-learning-resources) as well.
+ P.s.: If you want to learn about Flink, check out my [Flink Learning Resources](Kafka Learning Resources](https://github.com/pmoskovi/flink-learning-resources) as well.
 ## Table of Contents 
 * [Skill Level](#skill-level)
   * [Beginner](#beginner)
