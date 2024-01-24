@@ -16,12 +16,14 @@ If you have a resource that could benefit others in their understanding of Apach
 I regularly review submissions to ensure the repository remains up-to-date and valuable for learners at all levels.
 
 ## How I Manage the Resources
-To keep things organized and easily accessible, I’ve implemented a simple, streamlined process. All the resources are stored in an [AirTable spreadsheet](https://airtable.com/appEd5VonRN5jjbA3/shrSfBXUa80PzxOY7/tblPu2wGcjJwOKbjP/viwdQPLV4yunwd3Mq), which acts as the central hub for all the content. This approach allows me to maintain and update the resources efficiently. Whenever there's a change in the contents of the spreadsheet, a script is executed to update this very README.md page. This process ensures that the information you see on this page is current and reflects the contents of the [AirTable spreadsheet](https://airtable.com/appEd5VonRN5jjbA3/shrSfBXUa80PzxOY7/tblPu2wGcjJwOKbjP/viwdQPLV4yunwd3Mq).
+To keep things organized and easily accessible, I’ve implemented a simple, streamlined process. All the resources are stored in an [AirTable spreadsheet](https://airtable.com/appEd5VonRN5jjbA3/shrSfBXUa80PzxOY7), which acts as the central hub for all the content. This approach allows me to maintain and update the resources efficiently. Whenever there's a change in the contents of the spreadsheet, a script is executed to update this very README.md page. This process ensures that the information you see on this page is current and reflects the contents of the [AirTable spreadsheet](https://airtable.com/appEd5VonRN5jjbA3/shrSfBXUa80PzxOY7).
 
 Your input and participation are what make this repository a valuable resource for everyone. If you have any questions or ideas, please don't hesitate to reach out. It is my goal to ensure that this repository remains a top-notch resource for Apache Kafka knowledge.
 Thank you for visiting and contributing to this collaborative effort. Together, we can make learning Apache Kafka accessible and effective for everyone.
 
  Happy Learning!
+
+ P.s.: If you want to learn about Flink, check out my [Flink Learning Resources](../flink-learning-resources) as well.
 ## Table of Contents 
 * [Skill Level](#skill-level)
   * [Beginner](#beginner)
@@ -47,8 +49,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ## Skill Level
 
 ### Beginner
-* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund. A great resource if you're a complete beginner. | 7 videos | ~90 min | Source: https://youtube.com
-<br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals YouTube video series with @tberglund. A great resource if you're a complete beginner and want an intro to the core concepts. | 7 videos | ~90 min | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video)
 * [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): A complete end-to-end course with hands-on exercises taking you into the world of Kafka. | 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [How do I get started building my first Kafka producer application?](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/confluent.html): An intuitive step-by-step tutorial on publishing Kafka messages. The tutorial offers two deployment options for you to choose from: pure Apache Kafka or Confluent Cloud. | Source: https://developer.confluent.io
@@ -178,8 +180,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ## Resource Type
 
 ### Video
-* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund. A great resource if you're a complete beginner. | 7 videos | ~90 min | Source: https://youtube.com
-<br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
+* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals YouTube video series with @tberglund. A great resource if you're a complete beginner and want an intro to the core concepts. | 7 videos | ~90 min | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video)
 * [Introduction to Consumer Group IDs](https://www.youtube.com/watch?v=xbJRNwfnQb4): Lucia Cerchie explains what an Apache Kafka® Consumer Group ID is, and what role it plays in work sharing and rebalancing. | Source: https://youtube.com
 <br/>Tags: [Intermediate](#intermediate), [Video](#video)
 * [Apache Kafka in 6 Minutes](https://www.youtube.com/watch?v=Ch5VhJzaoaI): One of the most popular quick explainers on YouTube. | Source: https://youtube.com
@@ -317,8 +319,6 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 ## Interactivity
 
 ### Hands-on Exercises
-* [Apache Kafka Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA): Apache Kafka Fundamentals Course with Tim Berglund. A great resource if you're a complete beginner. | 7 videos | ~90 min | Source: https://youtube.com
-<br/>Tags: [Beginner](#beginner), [Video](#video), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/): A complete end-to-end course with hands-on exercises taking you into the world of Kafka. | 18 videos, 6 hands-on exercises | ~90 min | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
