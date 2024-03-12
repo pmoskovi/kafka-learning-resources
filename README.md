@@ -105,6 +105,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Newsletter](#newsletter)
 * [What is a Kafka Consumer and How Does It Work?](https://www.youtube.com/watch?v=XgmJWoXQVvY): Outstanding 5 min intro to the very basics of Kafka consumers: offsets, consumer groups, partitions, config - Dan Weston has you covvered. | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
+* [What Are Kafka Producers and How Do They work?](https://www.youtube.com/watch?v=cGFjd7ox4h4): 5 min is all you need to learn about Kafka producers. Brief context on Kafka, producer config, and producer Acks. Quick, simple, easy. | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
 
 ### Intermediate
 * [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started): Learn about the super powerful library to process and transform your data in the Kafka world. | 23 videos | 9 hands-on exercises | Source: https://developer.confluent.io
@@ -201,6 +203,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Apache Kafka 3.6 New Features](https://www.youtube.com/watch?v=GW3625sEJyc): Watch this sweet video (shot in an apiary) discussing the new features in Kafka 3.6 . | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video)
 * [What is a Kafka Consumer and How Does It Work?](https://www.youtube.com/watch?v=XgmJWoXQVvY): Outstanding 5 min intro to the very basics of Kafka consumers: offsets, consumer groups, partitions, config - Dan Weston has you covvered. | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
+* [What Are Kafka Producers and How Do They work?](https://www.youtube.com/watch?v=cGFjd7ox4h4): 5 min is all you need to learn about Kafka producers. Brief context on Kafka, producer config, and producer Acks. Quick, simple, easy. | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
 
 ### Book or Article
@@ -408,6 +412,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/): Learn Apache Kafka Ecosystem, Architecture, and Client API Programming in Java | For Fee | Source: https://udemy.com
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [What is a Kafka Consumer and How Does It Work?](https://www.youtube.com/watch?v=XgmJWoXQVvY): Outstanding 5 min intro to the very basics of Kafka consumers: offsets, consumer groups, partitions, config - Dan Weston has you covvered. | Source: https://youtube.com
+<br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
+* [What Are Kafka Producers and How Do They work?](https://www.youtube.com/watch?v=cGFjd7ox4h4): 5 min is all you need to learn about Kafka producers. Brief context on Kafka, producer config, and producer Acks. Quick, simple, easy. | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
 
 ### Python
