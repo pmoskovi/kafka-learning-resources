@@ -180,6 +180,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [Multi-Threaded Message Consumption with the Apache Kafka Consumer](https://www.confluent.io/blog/kafka-consumer-multi-threaded-messaging/): Understanding Kafka consumer internals is important in implementing a successful multi-threaded solution. This blog post takes a look under the hood of the Kafka consumer as a first step.
  | Source: https://developer.confluent.io
 <br/>Tags: [Advanced](#advanced), [Blog Post](#blog-post)
+* [How To Improve Data Quality with Domain Validation Rules](https://www.youtube.com/watch?v=3BoljGZf5as): Here's what this video offers you: What is a data contract? What are semantically invalid messages? Data quality Rules | Source: https://youtube.com
+<br/>Tags: [Advanced](#advanced), [Video](#video)
 
 ## Resource Type
 
@@ -206,6 +208,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
 * [What Are Kafka Producers and How Do They work?](https://www.youtube.com/watch?v=cGFjd7ox4h4): 5 min is all you need to learn about Kafka producers. Brief context on Kafka, producer config, and producer Acks. Quick, simple, easy. | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
+* [How To Improve Data Quality with Domain Validation Rules](https://www.youtube.com/watch?v=3BoljGZf5as): Here's what this video offers you: What is a data contract? What are semantically invalid messages? Data quality Rules | Source: https://youtube.com
+<br/>Tags: [Advanced](#advanced), [Video](#video)
 
 ### Book or Article
 * [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide): Free 300+ page e-book (registration required), covering a full introduction to Apache Kafka , the distributed, publish-subscribe queue for handling real-time data feeds, Kafka internal architecture, what it's used for, and how to take full advantage of Kafka stream processing technology. | Source: https://www.confluent.io/
