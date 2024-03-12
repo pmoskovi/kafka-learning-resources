@@ -182,6 +182,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Advanced](#advanced), [Blog Post](#blog-post)
 * [How To Improve Data Quality with Domain Validation Rules](https://www.youtube.com/watch?v=3BoljGZf5as): Here's what this video offers you: What is a data contract? What are semantically invalid messages? Data quality Rules | Source: https://youtube.com
 <br/>Tags: [Advanced](#advanced), [Video](#video)
+* [How to Evolve your Schemas with Migration Rules?](https://www.youtube.com/watch?v=RQeo6Y_7Ahc): In this video by Gilles Philippart you can learn about schema evolution, schema registry compatibility modes, compatibility groups and migration rules. | Source: https://youtube.com
+<br/>Tags: [Advanced](#advanced), [Video](#video)
 
 ## Resource Type
 
@@ -209,6 +211,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 * [What Are Kafka Producers and How Do They work?](https://www.youtube.com/watch?v=cGFjd7ox4h4): 5 min is all you need to learn about Kafka producers. Brief context on Kafka, producer config, and producer Acks. Quick, simple, easy. | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
 * [How To Improve Data Quality with Domain Validation Rules](https://www.youtube.com/watch?v=3BoljGZf5as): Here's what this video offers you: What is a data contract? What are semantically invalid messages? Data quality Rules | Source: https://youtube.com
+<br/>Tags: [Advanced](#advanced), [Video](#video)
+* [How to Evolve your Schemas with Migration Rules?](https://www.youtube.com/watch?v=RQeo6Y_7Ahc): In this video by Gilles Philippart you can learn about schema evolution, schema registry compatibility modes, compatibility groups and migration rules. | Source: https://youtube.com
 <br/>Tags: [Advanced](#advanced), [Video](#video)
 
 ### Book or Article
