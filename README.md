@@ -44,6 +44,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
   * [Python](#python)
   * [.NET](#net)
 * [Integration](#integration)
+  * [Enterprise Apps](#enterprise-apps)
   * [Several Integrations](#several-integrations)
 
 ## Skill Level
@@ -161,6 +162,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Kafka Cluster Setup & Administration](https://www.udemy.com/course/kafka-cluster-setup/): Hands-On Training on ZooKeeper Quorum Setup, Kafka Cluster Setup and Administration in AWS. | For Fee | Source: https://udemy.com
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [A Sandbox for Kafka Connect Connectors Experimentation](https://blog.devops.dev/a-sandbox-for-kafka-connect-connectors-experimentation-2e41f99aae15): A sandbox for Kafka Connect: an environment designed to simplify the process of testing different connectors. | Source: https://medium.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Advanced
 * [Streaming Data Governance](https://developer.confluent.io/courses/governing-data-streams/overview/): Learn about Confluent Cloud stream governance features. | Source: https://developer.confluent.io
@@ -274,6 +277,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/): Learn Apache Kafka Ecosystem, Architecture, and Client API Programming in Java | For Fee | Source: https://udemy.com
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [A Sandbox for Kafka Connect Connectors Experimentation](https://blog.devops.dev/a-sandbox-for-kafka-connect-connectors-experimentation-2e41f99aae15): A sandbox for Kafka Connect: an environment designed to simplify the process of testing different connectors. | Source: https://medium.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Documentation
 * [Apache Kafka Documentation](https://kafka.apache.org/documentation/): The official Kafka documentation | Source: https://kafka.apache.org/
@@ -399,6 +404,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/): Learn Apache Kafka Ecosystem, Architecture, and Client API Programming in Java | For Fee | Source: https://udemy.com
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
+* [A Sandbox for Kafka Connect Connectors Experimentation](https://blog.devops.dev/a-sandbox-for-kafka-connect-connectors-experimentation-2e41f99aae15): A sandbox for Kafka Connect: an environment designed to simplify the process of testing different connectors. | Source: https://medium.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ## Language
 
@@ -423,6 +430,8 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
 * [What Are Kafka Producers and How Do They work?](https://www.youtube.com/watch?v=cGFjd7ox4h4): 5 min is all you need to learn about Kafka producers. Brief context on Kafka, producer config, and producer Acks. Quick, simple, easy. | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
+* [A Sandbox for Kafka Connect Connectors Experimentation](https://blog.devops.dev/a-sandbox-for-kafka-connect-connectors-experimentation-2e41f99aae15): A sandbox for Kafka Connect: an environment designed to simplify the process of testing different connectors. | Source: https://medium.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Python
 * [Apache Kafka for Python Developers](https://developer.confluent.io/courses/kafka-python/intro/): Building Kafka apps using Python. | Source: https://developer.confluent.io
@@ -435,6 +444,10 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [.NET](#net)
 
 ## Integration
+
+### Enterprise Apps
+* [A Sandbox for Kafka Connect Connectors Experimentation](https://blog.devops.dev/a-sandbox-for-kafka-connect-connectors-experimentation-2e41f99aae15): A sandbox for Kafka Connect: an environment designed to simplify the process of testing different connectors. | Source: https://medium.com
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Several Integrations
 * [Kafka Connect 101](https://developer.confluent.io/courses/kafka-connect): Need to integrate Kafka with your back-ends? There are hundreds of connectors readily available for you to choose from so you don’t have to reinvent the ‘data integration’ wheel. | Source: https://developer.confluent.io
