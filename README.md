@@ -1,6 +1,6 @@
-<p align="center"><img src="./images/apache-kafka.jpg" alt="kafka logo"></p>
-
 <p align="center"><img src="./images/star-this-repo.gif" alt="Star this repository" /></p>
+
+<p align="center"><img src="./images/apache-kafka.jpg" alt="kafka logo"></p>
 
 # Apache Kafka Learning Resources Repository
 Hello and welcome to my comprehensive collection of Apache Kafka learning materials. This repository is designed to be a centralized resource for anyone looking to learn or deepen their knowledge of Apache Kafka, regardless of their experience level.
@@ -27,10 +27,10 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 
  Happy Learning!
 
- P.s.: If you want to learn about Flink, check out my [Flink Learning Resources](https://github.com/pmoskovi/flink-learning-resources) as well.
+ P.s.: If you want to learn about Flink and Iceberg, check out my [Flink Learning Resources](https://github.com/pmoskovi/flink-learning-resources) and [Iceberg Learning Resources](https://github.com/pmoskovi/iceberg-learning-resources) as well.
 
 This document contains 66 Kafka Learning Resources.
-Last updated: 12/23/2024 9:41:17 AM
+Last updated: 12/27/2024 8:32:27 PM
 
 ## Table of Contents 
 * [Skill Level (66)](#skill-level)
